@@ -1,6 +1,13 @@
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
 body {
-  background: linear-gradient(135deg, #6B2DA9, #E2336E, #32A89B);
+  background: linear-gradient(135deg, #6B2DA9, #d64a9c, #32A89B);
   background-size: 300% 300%;
+  animation: gradient 30s ease infinite;
   font-family: 'VT323', monospace;
   color: white;
   text-align: center;
