@@ -101,7 +101,7 @@ footer {
 #sad-cat {
   max-width: 50%;
   height: auto;
-  margin: 20px 0px;
+  margin: 10px 0px;
   border-radius: 50%;
 }
 
@@ -132,7 +132,7 @@ h3 {
   #sad-cat {
     max-width: 100%;
     height: auto;
-    margin: 20px 0;
+    margin: 10px 0;
     border-radius: 50%;
   }
 
