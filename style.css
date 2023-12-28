@@ -12,6 +12,11 @@ body {
   margin: 0;
 }
 
+#user-agreement strong {
+  display: block;
+
+  margin-top: 20px;
+}
 .chatgptfolders {
   background: linear-gradient(135deg, #2f3d79, #53ad6e, #b1a95f);
 }
