@@ -14,7 +14,11 @@ body {
 
 #user-agreement strong {
   display: block;
+  margin-top: 20px;
+}
 
+#privacy-policy strong{
+  display: block;
   margin-top: 20px;
 }
 .chatgptfolders {
